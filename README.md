@@ -1,5 +1,3 @@
-# TodoApp_Infra
-
 # TODOAPP_INFRA
 
 This repository contains the Terraform configuration for provisioning the infrastructure required to run the **TODO Application** on Microsoft Azure. The infrastructure is designed using a **modular structure** and supports **multiple environments** like `Dev` and `Prod`.
