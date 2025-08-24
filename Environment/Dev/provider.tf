@@ -7,8 +7,8 @@ terraform {
   }
   # backend "azurerm" {
   #   resource_group_name  = "todoapp-tfstate-rg"
-  #   storage_account_name = "todoapptfstate"
-  #   container_name       = "tfstate"
+  #   storage_account_name = "ubedbackendstorage"
+  #   container_name       = "devcontainer"
   #   key                  = "dev.terraform.tfstate"
   # }
 }
